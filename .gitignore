@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+data/raw/*.xlsx
+data/raw/*.html
+data/raw/sec_*.json

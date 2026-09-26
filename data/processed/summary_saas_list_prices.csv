@@ -1,0 +1,15 @@
+vendor,plan,first_date,first_price,last_date,last_price,change
+adobe_creative_cloud,all_apps_individual,2013-05-06,49.99,2025-06-17,69.99,0.40008001600320053
+atlassian_jira,standard,2019-10-01,7.0,2024-10-16,8.6,0.22857142857142843
+github,copilot_business_addon,2023-02-14,19.0,2023-02-14,19.0,0.0
+github,team,2019-01-07,9.0,2020-04-14,4.0,-0.5555555555555556
+google_workspace,business_standard,2020-10-06,12.0,2025-01-16,14.0,0.16666666666666674
+microsoft_365,business_standard,2011-06-28,12.5,2025-04-01,15.0,0.19999999999999996
+microsoft_365,e3,2011-06-28,20.0,2022-03-01,36.0,0.8
+microsoft_365,e3_with_copilot_addon,2023-11-01,66.0,2023-11-01,66.0,0.0
+notion,business_ai_included,2025-05-13,20.0,2025-05-13,20.0,0.0
+notion,plus,2020-05-19,8.0,2023-05-01,8.0,0.0
+notion,plus_with_ai_addon,2023-05-01,16.0,2023-05-01,16.0,0.0
+salesforce,sales_cloud_enterprise,2013-01-01,125.0,2025-08-01,175.0,0.3999999999999999
+slack,pro,2014-02-12,6.67,2024-07-01,8.75,0.31184407796101943
+zoom,pro,2013-01-01,14.99,2023-05-01,15.99,0.06671114076050699

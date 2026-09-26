@@ -1,0 +1,1690 @@
+{
+ "Results": {
+  "series": [
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "126.045",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "111.691",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "107.344",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.453",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "99.956",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "97.303",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "97.373",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "99.542",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUJN5112__L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "109.997",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "106.588",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "104.861",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "99.877",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "107.231",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "96.312",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.361",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "99.718",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUKN52211_L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "103.303",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "105.420",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "106.694",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "104.821",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.251",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.987",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUMN541211L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "88.396",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "112.104",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "119.562",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "106.461",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "102.882",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "102.364",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUMN541213L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "121.463",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "129.243",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "127.082",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "114.417",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "110.991",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "106.079",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUMN54131_L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "110.539",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "110.747",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "106.053",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "101.981",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "101.413",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.988",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.901",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.315",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUMN54133_L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "118.494",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "114.833",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "123.520",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "112.776",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "103.050",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "101.547",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUMN54181_L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "139.536",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "162.006",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "177.612",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "130.438",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "123.707",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "114.459",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUPN56131_L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "191.514",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "178.261",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "161.376",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "165.939",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "139.758",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "93.111",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "118.392",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "112.829",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUPN5615__L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "147.721",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "134.162",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "127.664",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "119.928",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "117.741",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "108.958",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "105.848",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "103.464",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUJN511___L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "103.398",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "105.033",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "99.631",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.087",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "103.401",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "104.497",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "97.658",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.066",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUIN484___L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "110.264",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "108.449",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "106.029",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "118.999",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "118.455",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "106.961",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "103.745",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "101.961",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUTN7225__L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.293",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "101.702",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "101.561",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "113.909",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "122.735",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "98.060",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "98.492",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "99.718",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUTN721___L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "93.415",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "92.716",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "98.489",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "102.061",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "103.122",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "101.491",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "102.902",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "98.844",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUUN8111__L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "108.517",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "111.963",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "107.951",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "109.535",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "111.588",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "108.631",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "105.448",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "103.169",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUHN4451__L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "99.496",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "96.127",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.989",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "103.520",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "104.931",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "102.533",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "104.235",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "101.623",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUCN2211__L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "70.247",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "69.270",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "70.199",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "65.572",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "73.753",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "83.097",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "90.228",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "91.007",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUIN493___L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "67.034",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "73.251",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "76.556",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "73.172",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "77.772",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "77.069",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "83.610",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "93.471",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUIN492___L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "92.371",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "90.671",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "88.866",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "94.745",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "98.834",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "93.414",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "97.584",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "97.412",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUHN447___L000000000"
+   },
+   {
+    "data": [
+     {
+      "footnotes": [
+       {}
+      ],
+      "latest": "true",
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "111.737",
+      "year": "2025"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "109.829",
+      "year": "2024"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "108.481",
+      "year": "2023"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "101.800",
+      "year": "2022"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "114.862",
+      "year": "2021"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "108.570",
+      "year": "2020"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "102.867",
+      "year": "2019"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "101.185",
+      "year": "2018"
+     },
+     {
+      "footnotes": [
+       {}
+      ],
+      "period": "A01",
+      "periodName": "Annual",
+      "value": "100.000",
+      "year": "2017"
+     }
+    ],
+    "seriesID": "IPUHN441___L000000000"
+   }
+  ]
+ },
+ "message": [
+  "No Data Available for Series IPUCN2211__L000000000 Year: 2026",
+  "No Data Available for Series IPUHN441___L000000000 Year: 2026",
+  "No Data Available for Series IPUHN4451__L000000000 Year: 2026",
+  "No Data Available for Series IPUHN447___L000000000 Year: 2026",
+  "No Data Available for Series IPUIN484___L000000000 Year: 2026",
+  "No Data Available for Series IPUIN492___L000000000 Year: 2026",
+  "No Data Available for Series IPUIN493___L000000000 Year: 2026",
+  "No Data Available for Series IPUJN5112__L000000000 Year: 2026",
+  "No Data Available for Series IPUJN511___L000000000 Year: 2026",
+  "No Data Available for Series IPUKN52211_L000000000 Year: 2026",
+  "No Data Available for Series IPUMN541211L000000000 Year: 2024",
+  "No Data Available for Series IPUMN541211L000000000 Year: 2025",
+  "No Data Available for Series IPUMN541211L000000000 Year: 2026",
+  "No Data Available for Series IPUMN541213L000000000 Year: 2024",
+  "No Data Available for Series IPUMN541213L000000000 Year: 2025",
+  "No Data Available for Series IPUMN541213L000000000 Year: 2026",
+  "No Data Available for Series IPUMN54131_L000000000 Year: 2024",
+  "No Data Available for Series IPUMN54131_L000000000 Year: 2025",
+  "No Data Available for Series IPUMN54131_L000000000 Year: 2026",
+  "No Data Available for Series IPUMN54133_L000000000 Year: 2026",
+  "No Data Available for Series IPUMN54181_L000000000 Year: 2024",
+  "No Data Available for Series IPUMN54181_L000000000 Year: 2025",
+  "No Data Available for Series IPUMN54181_L000000000 Year: 2026",
+  "No Data Available for Series IPUPN56131_L000000000 Year: 2024",
+  "No Data Available for Series IPUPN56131_L000000000 Year: 2025",
+  "No Data Available for Series IPUPN56131_L000000000 Year: 2026",
+  "No Data Available for Series IPUPN5615__L000000000 Year: 2026",
+  "No Data Available for Series IPUTN721___L000000000 Year: 2026",
+  "No Data Available for Series IPUTN7225__L000000000 Year: 2026",
+  "No Data Available for Series IPUUN8111__L000000000 Year: 2026"
+ ],
+ "responseTime": 414,
+ "status": "REQUEST_SUCCEEDED"
+}
